@@ -23,5 +23,4 @@ gufgudhcscs
 bioinformatics
 Biochemistry 
 Sprint board
-dvdvv 
 Dashboard

@@ -23,3 +23,4 @@ bioinformatics
 Biochemistry 
 Sprint board
 Dashboard
+QA biochemistry
